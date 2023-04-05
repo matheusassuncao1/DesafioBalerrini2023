@@ -3,7 +3,7 @@
 
 **Desafio Ballerini**
 
-![This is an image](https://i.pinimg.com/originals/c6/88/29/c68829dfde5d8966ccafd2897b16889f.gif)
+![This is an image](https://gifdb.com/images/thumbnail/fbi-giga-chad-sigma-male-green-grid-glow-soelz5u8obbi48h8.gif)
 Este é um projeto de desafio que tem como objetivo expandir e praticar as mais altas práticas de programação, visando melhorar a lógica e o desempenho dos usuários na programação de Tecnologia da Informação.
 
 **Objetivos**
